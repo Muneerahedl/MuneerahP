@@ -14,7 +14,7 @@ struct ContentView: View {
                 .resizable()
                 .frame(width: 100, height: 100)
                 .clipShape(Circle())
-            Text("Muneerah Aledaily")
+            Text("Muneerah N. Aledaily")
                 .foregroundColor(Color("Mcolor"))
                 .bold()
                 .font(.largeTitle)
